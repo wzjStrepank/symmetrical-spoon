@@ -1,4 +1,6 @@
 # symmetrical-spoon
-second
 
-www
+Linux
+MySQL
+GitHub
+Python
